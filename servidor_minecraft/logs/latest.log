@@ -2497,3 +2497,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 19:31:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nooo el voice chat
 [21May2025 19:32:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> lo reinicio?
 [21May2025 19:32:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> eso despues
+[21May2025 19:32:54.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[21May2025 19:32:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[21May2025 19:32:54.791] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[21May2025 19:33:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[21May2025 19:33:34.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[21May2025 19:33:57.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:42043] logged in with entity id 1652 at (-303.64915291973335, 68.0, 1145.3461646656626)
+[21May2025 19:33:57.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[21May2025 19:33:57.262] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[21May2025 19:33:58.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[21May2025 19:33:58.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[21May2025 19:34:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a
+[21May2025 19:35:17.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:35:28.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:35:33.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:35:41.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> va mejor?
+[21May2025 19:35:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si
+[21May2025 19:35:56.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> che y tu arma?
+[21May2025 19:36:04.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que arma
+[21May2025 19:36:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la otra
+[21May2025 19:36:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> cual
+[21May2025 19:36:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la toda poderosa la perdistte?
+[21May2025 19:36:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> esa
+[21May2025 19:37:02.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la duplicamos o que paso
+[21May2025 19:37:30.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> como desaparecio saque una del creativo
+[21May2025 19:37:46.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no desapareció
+[21May2025 19:37:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> eso pense
+[21May2025 19:37:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> la tenía yo =)
+[21May2025 19:38:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> quemala
+[21May2025 19:38:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> la tire
+[21May2025 19:38:18.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> dondeeeee
+[21May2025 19:38:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ahi
+[21May2025 19:38:35.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ok
+[21May2025 19:39:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> mi casa tiooo
+[21May2025 19:39:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> me voy a matar al archievokr
+[21May2025 19:39:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pok
+[21May2025 19:39:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> porque revivio
+[21May2025 19:39:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> esperá
+[21May2025 19:39:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> reparemos la granja
+[21May2025 19:39:28.528] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21May2025 19:39:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> estaa reparada
+[21May2025 19:40:10.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> matamos al wither
+[21May2025 19:40:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> mierda el beacon tambien desaparecio
+[21May2025 19:40:30.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y las armas
+[21May2025 19:40:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
+[21May2025 19:40:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :(
+[21May2025 19:40:40.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> llamada whats?
+[21May2025 19:43:48.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
