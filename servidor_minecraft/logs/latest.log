@@ -2589,3 +2589,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 20:03:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose
 [21May2025 20:03:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
 [21May2025 20:04:04.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> estan para hablar?
+[21May2025 20:07:13.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[21May2025 20:07:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[21May2025 20:07:13.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[21May2025 20:07:13.381] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 20:07:50.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12952, l='ServerLevel[world]', x=211.53, y=-256.00, z=539.06] died, message: 'Unemployed was killed'
+[21May2025 20:08:45.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:42093] logged in with entity id 13195 at (-339.0919657988666, 69.5625, 1107.14485362717)
+[21May2025 20:08:45.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[21May2025 20:08:45.630] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[21May2025 20:08:46.940] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[21May2025 20:08:46.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[21May2025 20:09:26.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> pobre laucha
+[21May2025 20:11:10.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: You logged in from another location
+[21May2025 20:11:10.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[21May2025 20:11:10.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[21May2025 20:11:10.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:53239] logged in with entity id 14453 at (-335.25462913182224, 68.0, 1100.2899470997643)
+[21May2025 20:11:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[21May2025 20:11:10.769] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[21May2025 20:11:11.734] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[21May2025 20:11:11.735] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[21May2025 20:11:16.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que se opero
+[21May2025 20:14:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> I
+[21May2025 20:14:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> want
+[21May2025 20:14:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hidden in the Depths]
+[21May2025 20:14:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> GUNS
+[21May2025 20:14:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a
+[21May2025 20:14:44.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> como se hsver una aema
