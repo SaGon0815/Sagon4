@@ -9049,6 +9049,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-21 20:14:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-05-21 19:56:37 +0000"
@@ -9100,6 +9106,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-21 19:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-21 20:14:23 +0000"
     },
     "done": true
   },
@@ -9208,6 +9220,12 @@
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-21 19:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-21 20:14:23 +0000"
     },
     "done": true
   },
