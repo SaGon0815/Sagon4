@@ -1758,6 +1758,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-10 05:25:20 +0000",
       "minecraft:skeleton": "2025-05-04 04:36:18 +0000",
+      "minecraft:hoglin": "2025-05-21 20:30:11 +0000",
       "minecraft:vindicator": "2025-05-11 01:52:55 +0000",
       "minecraft:magma_cube": "2025-05-11 00:54:31 +0000",
       "minecraft:spider": "2025-05-04 03:04:46 +0000",
@@ -9151,6 +9152,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-05-21 20:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-05-21 19:56:09 +0000"
@@ -9190,6 +9197,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-21 19:55:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-05-21 20:31:31 +0000"
     },
     "done": true
   },

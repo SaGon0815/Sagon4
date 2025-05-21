@@ -10556,3 +10556,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 20:24:50.173] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747859090173
 [21May2025 20:24:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> manana
 [21May2025 20:24:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ya lo vi
+[21May2025 20:25:33.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 20:25:35.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[21May2025 20:25:37.845] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747859137828
+[21May2025 20:26:24.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22427, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
+[21May2025 20:28:45.064] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23449, l='ServerLevel[world]', x=211.53, y=-256.00, z=539.06] died, message: 'Unemployed was killed'
+[21May2025 20:29:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Fighting Nightmares]
+[21May2025 20:29:17.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 20:29:17.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 20:30:11.933] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[21May2025 20:30:23.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[21May2025 20:31:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> honza
+[21May2025 20:32:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> porque el diamante dice infected?
+[21May2025 20:32:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jueputa
+[21May2025 20:32:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me ilusione}
+[21May2025 20:32:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> por eso
+[21May2025 20:33:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was killed
+[21May2025 20:33:32.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> -
+[21May2025 20:33:36.962] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747859616930
+[21May2025 20:33:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> te moriste
+[21May2025 20:33:58.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[21May2025 20:33:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me mato un gusno conn brazos y grande
+[21May2025 20:34:17.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 20:34:17.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 20:34:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a mi igual me haabia matado :(
