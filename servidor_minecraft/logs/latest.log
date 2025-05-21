@@ -2557,3 +2557,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 19:50:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
 [21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Withering Heights]
 [21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Withering Heights]
+[21May2025 19:55:01.035] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21May2025 19:55:40.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.135.49.103:35499] logged in with entity id 7721 at (230.72453890732126, -12.0, 469.5524803154562)
+[21May2025 19:55:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[21May2025 19:55:40.178] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[21May2025 19:55:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Those Were the Days]
+[21May2025 19:55:50.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[21May2025 19:55:50.885] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[21May2025 19:56:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [War Pigs]
+[21May2025 19:56:38.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It Belongs in a Museum]
+[21May2025 20:01:03.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.254432471925611
+[21May2025 20:01:03.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3047545784147587
+[21May2025 20:01:03.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.35603677413359947
+[21May2025 20:01:03.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.40827754013821504
+[21May2025 20:01:03.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.4614752990642046
+[21May2025 20:01:04.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5156285319678773
+[21May2025 20:01:04.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.31623896083829095
+[21May2025 20:01:04.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.34779521956443205
+[21May2025 20:01:04.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.35484799614664553
+[21May2025 20:02:14.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[21May2025 20:02:21.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> se reinicio todo?
+[21May2025 20:02:24.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si
+[21May2025 20:02:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> noooo
+[21May2025 20:02:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no todo
+[21May2025 20:02:30.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> para nada
+[21May2025 20:02:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> santi
+[21May2025 20:02:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> no entro hace banda
+[21May2025 20:02:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ??
+[21May2025 20:02:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> literal
+[21May2025 20:03:24.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que pasaba que no andabas
+[21May2025 20:03:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose
+[21May2025 20:03:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[21May2025 20:04:04.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> estan para hablar?
