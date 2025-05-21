@@ -9563,3 +9563,82 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 19:40:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :(
 [21May2025 19:40:40.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> llamada whats?
 [21May2025 19:43:48.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:44:16.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 19:44:17.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 19:44:58.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:46:20.732] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21May2025 19:46:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [We Need to Go Deeper]
+[21May2025 19:46:20.768] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-317, y=68, z=1146} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[21May2025 19:46:20.772] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-317, y=68, z=1146} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[21May2025 19:46:21.059] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747856781019
+[21May2025 19:46:21.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[21May2025 19:46:21.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[21May2025 19:46:21.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[21May2025 19:46:21.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[21May2025 19:46:21.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[21May2025 19:46:21.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[21May2025 19:46:21.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[21May2025 19:46:21.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[21May2025 19:46:21.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[21May2025 19:46:21.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[21May2025 19:46:21.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[21May2025 19:46:21.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[21May2025 19:46:21.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[21May2025 19:46:21.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[21May2025 19:46:21.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[21May2025 19:46:21.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[21May2025 19:46:21.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[21May2025 19:46:21.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[21May2025 19:46:28.948] [Worker-Main-10/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21May2025 19:46:28.949] [Worker-Main-10/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21May2025 19:46:28.949] [Worker-Main-10/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21May2025 19:46:28.951] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21May2025 19:46:29.284] [Worker-Main-10/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21May2025 19:46:29.285] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21May2025 19:46:29.286] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21May2025 19:46:29.286] [Worker-Main-10/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[21May2025 19:46:29.290] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21May2025 19:46:29.290] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21May2025 19:46:29.307] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[21May2025 19:46:40.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[21May2025 19:46:40.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[21May2025 19:46:40.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[21May2025 19:46:40.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[21May2025 19:46:40.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[21May2025 19:46:40.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[21May2025 19:46:40.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[21May2025 19:46:40.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[21May2025 19:46:40.596] [Worker-Main-53/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[21May2025 19:46:40.605] [Worker-Main-53/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21May2025 19:46:40.606] [Worker-Main-53/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21May2025 19:46:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Oh Shiny]
+[21May2025 19:47:04.823] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21May2025 19:48:31.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5297, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
+[21May2025 19:48:47.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Soul Fortress]
+[21May2025 19:49:05.515] [Worker-Main-54/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin is being run through DFU (hash eba9fb8499290a2b22f3360af9be565101f546e673227b30d04c54b2246971ed), this will cause launch time delays
+[21May2025 19:49:05.515] [Worker-Main-54/INFO] [ModernFix/]: Instantiating Mojang DFU
+[21May2025 19:49:06.782] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[21May2025 19:49:06.786] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[21May2025 19:49:06.789] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[21May2025 19:49:06.791] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[21May2025 19:49:06.793] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[21May2025 19:49:06.794] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[21May2025 19:49:06.797] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[21May2025 19:49:06.805] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[21May2025 19:49:06.821] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[21May2025 19:49:08.265] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5559, l='ServerLevel[world]', x=-82.00, y=31.00, z=-137.00] as it would cause deadlock
+[21May2025 19:49:17.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 19:49:17.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 19:49:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [The Soul Eater]
+[21May2025 19:50:22.925] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-46, y=67, z=148} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[21May2025 19:50:23.164] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747857023152
+[21May2025 19:50:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[21May2025 19:52:48.178] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -317 1145 1145 VisualFallingBlockEntity['Falling Tuff'/6479, l='ServerLevel[world]', x=-316.50, y=-23.00, z=1145.50]
+[21May2025 19:52:48.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -316 1146 1146 VisualFallingBlockEntity['Falling Deepslate'/6480, l='ServerLevel[world]', x=-315.50, y=-27.00, z=1146.50]
+[21May2025 19:52:48.200] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Withering Heights]
+[21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Withering Heights]
+[21May2025 19:53:18.876] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[21May2025 19:53:18.876] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21May2025 19:54:16.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 19:54:17.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

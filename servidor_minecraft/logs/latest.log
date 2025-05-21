@@ -2544,3 +2544,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 19:40:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> :(
 [21May2025 19:40:40.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> llamada whats?
 [21May2025 19:43:48.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:44:58.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[21May2025 19:46:20.732] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21May2025 19:46:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [We Need to Go Deeper]
+[21May2025 19:46:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Oh Shiny]
+[21May2025 19:47:04.823] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[21May2025 19:48:31.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5297, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
+[21May2025 19:48:47.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Soul Fortress]
+[21May2025 19:49:05.515] [Worker-Main-54/INFO] [ModernFix/]: Instantiating Mojang DFU
+[21May2025 19:49:08.265] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5559, l='ServerLevel[world]', x=-82.00, y=31.00, z=-137.00] as it would cause deadlock
+[21May2025 19:49:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [The Soul Eater]
+[21May2025 19:50:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Withering Heights]
+[21May2025 19:53:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Withering Heights]
