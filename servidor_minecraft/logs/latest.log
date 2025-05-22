@@ -2551,3 +2551,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 06:58:12.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
 [22May2025 06:58:38.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
 [22May2025 07:04:21.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27564, l='ServerLevel[world]', x=-271.14, y=-256.00, z=1079.45] died, message: 'Unemployed was killed'
+[22May2025 07:30:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Fighting Nightmares]
