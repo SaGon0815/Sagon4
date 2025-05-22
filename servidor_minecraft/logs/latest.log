@@ -2544,3 +2544,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 06:01:30.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [22May2025 06:01:30.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [22May2025 06:04:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[22May2025 06:15:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode

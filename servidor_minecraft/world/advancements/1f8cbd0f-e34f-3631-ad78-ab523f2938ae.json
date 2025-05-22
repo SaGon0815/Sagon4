@@ -1602,6 +1602,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-05-22 06:17:02 +0000",
       "blueprinttable": "2025-05-06 01:03:41 +0000",
       "miningbench": "2025-05-11 03:26:17 +0000",
       "fletchingtable": "2025-05-03 05:12:36 +0000",
@@ -10011,6 +10012,12 @@
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2025-05-22 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-05-22 06:17:02 +0000"
     },
     "done": true
   },
