@@ -2636,3 +2636,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 03:18:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Suit Up]
 [22May2025 03:18:57.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16997, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
 [22May2025 03:19:19.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Horror Under the Mantle]
+[22May2025 03:20:00.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[22May2025 03:20:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22May2025 03:20:00.086] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22May2025 03:20:07.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:57333] logged in with entity id 17705 at (2739.092182750975, 62.452945567537455, -1331.7871761891995)
+[22May2025 03:20:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22May2025 03:20:07.672] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityCrocodile['Crocodile'/17706, l='ServerLevel[world]', x=2739.09, y=62.35, z=-1331.79] as it would cause deadlock
+[22May2025 03:20:07.758] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22May2025 03:20:08.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22May2025 03:20:08.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 03:20:13.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:20:14.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:20:14.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[22May2025 03:20:22.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[22May2025 03:20:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22May2025 03:20:22.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22May2025 03:20:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[22May2025 03:21:04.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:53631] logged in with entity id 18254 at (2739.092182750975, 62.492651010932725, -1331.7871761891995)
+[22May2025 03:21:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22May2025 03:21:04.907] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityCrocodile['Crocodile'/18255, l='ServerLevel[world]', x=2739.09, y=62.39, z=-1331.79] as it would cause deadlock
+[22May2025 03:21:04.982] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22May2025 03:21:05.213] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22May2025 03:21:05.214] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 03:21:10.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:21:11.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:21:11.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[22May2025 03:21:18.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Chompy]
+[22May2025 03:23:18.024] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22May2025 03:24:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Alex's Caves]
+[22May2025 03:24:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hide and Seek]
+[22May2025 03:27:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [You're Coming With Me]
+[22May2025 03:27:29.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod froze to death
+[22May2025 03:28:02.256] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 03:29:02.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[22May2025 03:29:02.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[22May2025 03:29:02.922] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[22May2025 03:29:22.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.26979487545941083
+[22May2025 03:29:42.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.4465250834325616
+[22May2025 03:29:42.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.29893398031981633
+[22May2025 03:29:42.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.6702436955849862
+[22May2025 03:29:42.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.5563798696850881
+[22May2025 03:29:42.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 2.445459928898572
+[22May2025 03:29:49.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.5315935052104805
+[22May2025 03:29:50.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 2.428830850629936
+[22May2025 03:29:50.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.9079620883557027
+[22May2025 03:29:50.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.3997973558286958
+[22May2025 03:29:50.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.8859720581535271
+[22May2025 03:29:50.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.36197168741233554

@@ -9563,9 +9563,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-22 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-22 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-22 03:21:10 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-05-22 02:52:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_silk_touch": {
+    "criteria": {
+      "steal_crystal": "2025-05-22 03:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-22 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-05-22 03:24:52 +0000"
     },
     "done": true
   },

@@ -9522,5 +9522,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-22 03:21:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
