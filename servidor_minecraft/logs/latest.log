@@ -2892,3 +2892,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 03:58:47.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [22May2025 04:02:34.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5482375550617462
 [22May2025 04:05:37.670] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-337, y=69, z=1104}
+[22May2025 04:10:46.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[22May2025 04:10:46.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[22May2025 04:10:46.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 04:11:19.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[22May2025 04:11:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22May2025 04:11:19.419] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22May2025 04:14:17.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:53327] logged in with entity id 30224 at (-265.25955893637894, 67.0, 1086.6037072620725)
+[22May2025 04:14:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22May2025 04:14:17.855] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22May2025 04:14:19.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22May2025 04:14:19.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 04:14:25.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 04:14:26.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 04:14:26.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[22May2025 04:21:21.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 04:26:58.820] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
