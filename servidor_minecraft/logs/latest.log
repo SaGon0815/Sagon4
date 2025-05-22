@@ -2518,3 +2518,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 05:19:32.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
 [22May2025 05:21:13.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
 [22May2025 05:21:22.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[22May2025 05:22:53.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[22May2025 05:23:24.862] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 05:24:07.663] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 05:24:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[22May2025 05:26:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
