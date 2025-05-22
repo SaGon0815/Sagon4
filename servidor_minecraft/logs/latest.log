@@ -2510,3 +2510,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 02:56:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> volvimos en el tiempo
 [22May2025 02:57:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jijijaja
 [22May2025 02:58:44.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> x: -340, z: 1109
+[22May2025 02:59:47.431] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[22May2025 02:59:47.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[22May2025 02:59:47.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 03:00:21.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: You logged in from another location
+[22May2025 03:00:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22May2025 03:00:21.229] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22May2025 03:00:21.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:40149] logged in with entity id 4672 at (-272.19520131617696, 68.0, 1093.0111217820245)
+[22May2025 03:00:21.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22May2025 03:00:21.311] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22May2025 03:00:22.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22May2025 03:00:22.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22May2025 03:00:30.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:00:31.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[22May2025 03:00:31.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[22May2025 03:02:34.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [First Village]
+[22May2025 03:03:00.736] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 03:05:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Nacho_cgod to Santix15
+[22May2025 03:05:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Acquire Hardware]
+[22May2025 03:07:09.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.8628677021388285
+[22May2025 03:07:09.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 2.0533610843190218
+[22May2025 03:07:09.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 3.225135985491079
+[22May2025 03:07:11.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.3626632278383113
+[22May2025 03:07:11.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.1730624551191795
+[22May2025 03:07:11.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.985382030995197
+[22May2025 03:07:11.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.7927820561419594
+[22May2025 03:07:11.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.5842662610066327
+[22May2025 03:07:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.35932750137726543
+[22May2025 03:07:11.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.3540797145947181
+[22May2025 03:07:12.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.6691046176883658
+[22May2025 03:07:12.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.4732126437079456
+[22May2025 03:07:12.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.5882861290122832
+[22May2025 03:07:12.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.295438311976079
+[22May2025 03:07:12.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.9779146617173746
+[22May2025 03:07:12.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.4951744354675611
+[22May2025 03:07:12.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.096482429555408
+[22May2025 03:07:12.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.6740273423288272
+[22May2025 03:07:12.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 2.2278091737878185
+[22May2025 03:07:12.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 2.7578279239326093
+[22May2025 03:07:12.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.3905160842865263
+[22May2025 03:07:13.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 0.8964908971618302
+[22May2025 03:07:13.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.3786592202070205
+[22May2025 03:07:13.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nacho_cgod) moved wrongly! 1.8360631025180498
+[22May2025 03:08:58.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 03:09:09.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
+[22May2025 03:09:11.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
+[22May2025 03:09:15.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod moved wrongly!
