@@ -8990,3 +8990,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 00:27:49.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [22May2025 00:27:49.363] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
 [22May2025 00:29:03.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[22May2025 00:30:23.269] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.netherexp.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22May2025 00:30:23.270] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22May2025 00:30:25.061] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=38537eb9-d123-458b-a819-9c874a8dd81e}
+[22May2025 00:30:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> grupooooooooo
+[22May2025 00:30:35.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=38537eb9-d123-458b-a819-9c874a8dd81e}
+[22May2025 00:30:40.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 00:30:40.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 00:34:52.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2902, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[22May2025 00:35:40.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 00:35:40.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 00:37:16.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[22May2025 00:37:33.021] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -269 1214 1214 VisualFallingBlockEntity['Falling Stone'/3630, l='ServerLevel[world]', x=-268.50, y=80.00, z=1214.50]
+[22May2025 00:37:45.352] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -273 1218 1218 VisualFallingBlockEntity['Falling Stone'/3703, l='ServerLevel[world]', x=-272.50, y=84.00, z=1218.50]
+[22May2025 00:37:58.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -272 1232 1232 VisualFallingBlockEntity['Falling Stone'/3769, l='ServerLevel[world]', x=-271.50, y=80.00, z=1232.50]
+[22May2025 00:38:06.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22May2025 00:38:53.652] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@6b730bbb for service interface com.blamejared.clumps.platform.IEventHelper
+[22May2025 00:38:53.652] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@433c8d7 for service interface com.blamejared.clumps.platform.IPlatformHelper
