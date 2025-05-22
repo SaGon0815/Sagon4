@@ -2546,3 +2546,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 06:04:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
 [22May2025 06:15:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
 [22May2025 06:28:29.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20345, l='ServerLevel[world]', x=-278.22, y=-256.00, z=1082.56] died, message: 'Unemployed was killed'
+[22May2025 06:44:20.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23271, l='ServerLevel[world]', x=-278.22, y=-256.00, z=1082.56] died, message: 'Unemployed was killed'
