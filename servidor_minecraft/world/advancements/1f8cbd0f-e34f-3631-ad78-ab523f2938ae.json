@@ -6708,7 +6708,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-10 05:27:48 +0000"
+      "minecraft:crimson_forest": "2025-05-22 00:52:33 +0000",
+      "minecraft:nether_wastes": "2025-05-10 05:27:48 +0000",
+      "minecraft:soul_sand_valley": "2025-05-22 00:55:10 +0000"
     },
     "done": false
   },
@@ -9355,6 +9357,42 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-05-21 22:45:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-22 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-22 00:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-22 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-22 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-22 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-22 00:52:52 +0000"
     },
     "done": true
   },

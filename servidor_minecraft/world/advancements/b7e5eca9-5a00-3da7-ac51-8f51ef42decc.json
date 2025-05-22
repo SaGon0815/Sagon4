@@ -9472,6 +9472,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-22 00:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 00:30:07 +0000"
@@ -9511,6 +9517,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-22 00:30:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-05-22 00:52:25 +0000"
     },
     "done": true
   },
