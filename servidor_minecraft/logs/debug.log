@@ -8724,3 +8724,100 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 05:11:44.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
 [22May2025 05:11:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
 [22May2025 05:12:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
+[22May2025 05:12:40.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[22May2025 05:12:40.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[22May2025 05:12:40.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[22May2025 05:12:40.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[22May2025 05:12:40.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[22May2025 05:12:40.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[22May2025 05:12:40.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[22May2025 05:12:40.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[22May2025 05:12:40.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[22May2025 05:12:40.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[22May2025 05:12:41.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[22May2025 05:12:41.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[22May2025 05:12:41.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[22May2025 05:12:41.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[22May2025 05:12:41.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[22May2025 05:12:41.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[22May2025 05:12:41.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[22May2025 05:13:09.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 05:13:09.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 05:13:16.157] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[22May2025 05:13:16.157] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22May2025 05:13:16.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22May2025 05:13:56.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[22May2025 05:14:05.606] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[22May2025 05:14:05.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2816, y=55, z=-1689} BlockPos{x=2816, y=53, z=-1689}
+[22May2025 05:14:05.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2816, y=55, z=-1689} BlockPos{x=2816, y=53, z=-1689}
+[22May2025 05:14:05.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2815, y=55, z=-1689} BlockPos{x=2816, y=53, z=-1689}
+[22May2025 05:15:48.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2785, y=61, z=-1690} BlockPos{x=2785, y=59, z=-1691}
+[22May2025 05:15:52.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[22May2025 05:15:52.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[22May2025 05:15:52.686] [Worker-Main-26/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[22May2025 05:15:52.694] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[22May2025 05:15:52.732] [Worker-Main-26/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[22May2025 05:15:52.752] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[22May2025 05:15:52.775] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[22May2025 05:15:52.994] [Worker-Main-26/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 05:15:52.994] [Worker-Main-26/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 05:15:52.994] [Worker-Main-26/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22May2025 05:15:52.995] [Worker-Main-26/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 05:15:53.344] [Worker-Main-57/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 05:15:53.345] [Worker-Main-57/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 05:15:53.345] [Worker-Main-57/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 05:15:53.345] [Worker-Main-57/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 05:15:53.350] [Worker-Main-57/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[22May2025 05:15:53.350] [Worker-Main-57/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[22May2025 05:15:56.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[22May2025 05:16:41.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[22May2025 05:16:57.883] [Worker-Main-58/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22May2025 05:16:57.884] [Worker-Main-58/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22May2025 05:17:08.390] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[22May2025 05:17:08.395] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[22May2025 05:17:08.401] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[22May2025 05:17:08.895] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[22May2025 05:18:09.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 05:18:09.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 05:18:54.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[22May2025 05:19:31.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=65, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=65, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=65, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2822, y=66, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2822, y=66, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2822, y=66, z=-1346} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:31.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:32.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2823, y=66, z=-1345} BlockPos{x=2823, y=63, z=-1347}
+[22May2025 05:19:36.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[22May2025 05:19:36.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[22May2025 05:19:36.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[22May2025 05:19:46.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[22May2025 05:19:46.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[22May2025 05:19:46.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[22May2025 05:19:46.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[22May2025 05:19:46.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[22May2025 05:19:46.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[22May2025 05:19:46.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[22May2025 05:19:59.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[22May2025 05:20:08.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[22May2025 05:20:08.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[22May2025 05:20:10.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[22May2025 05:20:10.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[22May2025 05:20:10.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[22May2025 05:20:10.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[22May2025 05:20:10.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[22May2025 05:20:10.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[22May2025 05:20:32.221] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[22May2025 05:21:13.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[22May2025 05:21:22.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
