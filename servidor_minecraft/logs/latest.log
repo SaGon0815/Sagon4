@@ -2547,3 +2547,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 06:15:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
 [22May2025 06:28:29.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20345, l='ServerLevel[world]', x=-278.22, y=-256.00, z=1082.56] died, message: 'Unemployed was killed'
 [22May2025 06:44:20.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23271, l='ServerLevel[world]', x=-278.22, y=-256.00, z=1082.56] died, message: 'Unemployed was killed'
+[22May2025 06:56:43.112] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22May2025 06:58:12.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[22May2025 06:58:38.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
