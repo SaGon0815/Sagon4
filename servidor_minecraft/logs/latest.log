@@ -2618,3 +2618,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[69, -67, -56, 64, -53, -94, -46, 3, -73, 126, -127]"
 ]
+[24May2025 21:15:01.973] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24May2025 21:15:01.974] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[24May2025 21:15:01.974] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[24May2025 21:15:01.974] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*"
+]
