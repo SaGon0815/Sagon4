@@ -10111,9 +10111,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-24 04:55:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile_stairs_from_bricks": {
     "criteria": {
       "has_stone_tile": "2025-05-24 04:38:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-24 04:55:56 +0000"
     },
     "done": true
   },
@@ -10168,6 +10180,12 @@
   "supplementaries:recipes/stone_tile_stairs": {
     "criteria": {
       "has_stone_tile": "2025-05-24 04:38:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-24 04:51:02 +0000"
     },
     "done": true
   },
