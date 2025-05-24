@@ -2577,3 +2577,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 04:29:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
 [24May2025 04:29:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ;(
 [24May2025 04:29:29.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16248, l='ServerLevel[world]', x=-278.52, y=-256.00, z=1082.94] died, message: 'Unemployed was killed'
+[24May2025 04:32:17.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16846, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[24May2025 04:37:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> vengaa a chambear
