@@ -10027,5 +10027,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-05-24 01:08:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2025-05-24 01:08:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
