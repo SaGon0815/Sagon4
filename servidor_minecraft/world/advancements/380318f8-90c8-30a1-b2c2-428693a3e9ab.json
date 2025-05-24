@@ -68,8 +68,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-08 00:58:56 +0000",
+      "minecraft:sparse_jungle": "2025-05-24 01:26:15 +0000",
       "minecraft:river": "2025-05-06 01:48:27 +0000",
       "minecraft:forest": "2025-05-03 00:09:49 +0000",
+      "minecraft:jungle": "2025-05-24 01:26:53 +0000",
       "minecraft:plains": "2025-05-03 00:32:30 +0000"
     },
     "done": false
@@ -5015,6 +5017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-24 01:20:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 01:13:08 +0000"
@@ -5036,6 +5044,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-24 01:20:58 +0000"
     },
     "done": true
   },
