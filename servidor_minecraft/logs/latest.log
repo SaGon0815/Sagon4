@@ -87,3 +87,58 @@
 [
   "D1+m4/:{9ZI+304AW;"
 ]
+[24May2025 00:28:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Diamonds!]
+[24May2025 00:28:38.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> uf
+[24May2025 00:28:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> por fin wacho
+[24May2025 00:29:12.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> viste maxi
+[24May2025 00:29:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> .
+[24May2025 00:29:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[24May2025 00:30:43.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> dnd estan
+[24May2025 00:30:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> por
+[24May2025 00:38:17.875] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24May2025 00:38:17.876] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 19
+}
+[24May2025 00:38:17.876] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[24May2025 00:38:17.876] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "U6d0%\\;[gYjG304Ji+x{"
+]
+[24May2025 00:38:55.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17019, l='ServerLevel[world]', x=-271.14, y=-256.00, z=1079.45] died, message: 'Unemployed was killed'
+[24May2025 00:39:48.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17396, l='ServerLevel[world]', x=-271.14, y=-256.00, z=1079.45] died, message: 'Unemployed was killed'
+[24May2025 00:40:54.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[24May2025 00:40:54.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[24May2025 00:40:54.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[24May2025 00:40:57.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24May2025 00:40:58.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24May2025 00:40:58.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[24May2025 00:43:31.152] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[24May2025 00:45:09.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Beast Patient
+[24May2025 00:51:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 withered away
+[24May2025 00:51:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> te descompusiste
+[24May2025 00:55:25.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[24May2025 00:55:36.648] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[24May2025 00:55:52.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a timed out
+[24May2025 00:55:52.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player YOUNGDINO07
+[24May2025 00:55:52.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[24May2025 00:56:33.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[24May2025 00:56:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[24May2025 00:56:33.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Umvuthana
+[24May2025 00:56:33.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[24May2025 00:56:33.583] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 00:58:15.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:52427] logged in with entity id 25398 at (210.33327492140597, 57.0, 527.6923183900557)
+[24May2025 00:58:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[24May2025 00:58:15.293] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[24May2025 00:58:20.636] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24May2025 00:58:20.637] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[24May2025 00:58:20.637] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[24May2025 00:58:20.637] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*"
+]
+[24May2025 00:58:25.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[24May2025 00:58:25.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
