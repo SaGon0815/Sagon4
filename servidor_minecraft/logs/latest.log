@@ -2553,3 +2553,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "-nP#kpX&bqR0T512*p*"
 ]
+[24May2025 04:24:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Deceived Hopes]
+[24May2025 04:26:43.662] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24May2025 04:26:43.663] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4332
+}
+[24May2025 04:26:43.663] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[24May2025 04:26:43.663] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Rv}k#km|JnYgN3045"
+]
+[24May2025 04:28:45.942] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24May2025 04:28:45.942] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 164734449
+}
+[24May2025 04:28:45.942] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[24May2025 04:28:45.943] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IRK`@d_U<Ywr7]L2!0304l[:Bj\\"
+]
+[24May2025 04:29:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
+[24May2025 04:29:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ;(
+[24May2025 04:29:29.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16248, l='ServerLevel[world]', x=-278.52, y=-256.00, z=1082.94] died, message: 'Unemployed was killed'
