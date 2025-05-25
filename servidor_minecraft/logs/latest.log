@@ -4494,3 +4494,9 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [25May2025 03:22:00.940] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
 [25May2025 03:22:02.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
 [25May2025 03:22:02.064] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[25May2025 03:22:09.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[25May2025 03:22:10.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[25May2025 03:22:10.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[25May2025 03:22:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> holo
+[25May2025 03:22:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> holo
+[25May2025 03:23:08.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que le hacen?
