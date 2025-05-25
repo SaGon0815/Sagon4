@@ -15449,3 +15449,50 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [25May2025 03:01:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> mierda
 [25May2025 03:01:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> morimos y volvemos
 [25May2025 03:01:25.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62247, l='ServerLevel[world]', x=-271.24, y=-256.00, z=1078.48] died, message: 'Unemployed was killed'
+[25May2025 03:01:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> dale
+[25May2025 03:01:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> XD
+[25May2025 03:01:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> LOL
+[25May2025 03:01:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 was slain by Hoglin
+[25May2025 03:01:46.708] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142106705
+[25May2025 03:01:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Hoglin
+[25May2025 03:01:48.707] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142108706
+[25May2025 03:01:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> xd
+[25May2025 03:01:59.665] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25May2025 03:01:59.667] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=551, y=97, z=754} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25May2025 03:01:59.667] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=551, y=97, z=754} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25May2025 03:02:00.060] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142120055
+[25May2025 03:02:24.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
+[25May2025 03:02:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> xd-
+[25May2025 03:02:27.580] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142147539
+[25May2025 03:02:49.116] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[25May2025 03:02:49.118] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=551, y=97, z=754} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25May2025 03:02:49.118] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=551, y=97, z=754} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[25May2025 03:02:49.514] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142169492
+[25May2025 03:03:51.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64986, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[25May2025 03:03:58.635] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[25May2025 03:04:54.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:04:54.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 03:05:19.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66568, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[25May2025 03:05:55.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> no jodas
+[25May2025 03:06:09.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> tengo mis cosas
+[25May2025 03:06:19.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> che yo me tengo que ir
+[25May2025 03:06:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> uhh
+[25May2025 03:06:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> bueno
+[25May2025 03:06:31.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> las cosas no desaparecen no?
+[25May2025 03:06:35.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> nop
+[25May2025 03:06:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> las que deje cuando me mori en el netehr
+[25May2025 03:06:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 was killed by Necromancer's magic missile
+[25May2025 03:06:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> ?-
+[25May2025 03:06:52.005] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748142411968
+[25May2025 03:07:02.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[25May2025 03:07:05.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> bueno ahi nos vemos
+[25May2025 03:07:07.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Herobrine1019 lost connection: Disconnected
+[25May2025 03:07:07.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 left the game
+[25May2025 03:07:07.602] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Herobrine1019
+[25May2025 03:07:07.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Herobrine1019
+[25May2025 03:09:14.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[25May2025 03:09:14.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[25May2025 03:09:14.052] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of YOUNGDINO07
+[25May2025 03:09:14.052] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[25May2025 03:09:54.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 03:09:54.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
