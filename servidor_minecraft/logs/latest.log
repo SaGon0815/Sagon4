@@ -2636,3 +2636,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 01:48:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 has made the advancement [Getting an Upgrade]
 [25May2025 01:48:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Not Today, Thank You]
 [25May2025 01:49:13.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Mutant Zombie
+[25May2025 01:51:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 has made the advancement [First Village]
+[25May2025 01:53:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> es algo mala esa
+[25May2025 01:53:23.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> pero necesitas madera igual
+[25May2025 01:57:14.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 has made the advancement [Pic-A-Nic Basket?]
+[25May2025 01:57:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 was slain by Grizzly Bear
+[25May2025 01:58:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> che, ahora vuelvo
+[25May2025 01:58:25.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Herobrine1019 lost connection: Disconnected
+[25May2025 01:58:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 left the game
+[25May2025 01:58:25.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Herobrine1019

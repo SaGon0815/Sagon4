@@ -65,6 +65,7 @@
       "minecraft:beach": "2025-05-25 00:08:21 +0000",
       "minecraft:sparse_jungle": "2025-05-25 00:26:54 +0000",
       "minecraft:river": "2025-05-25 00:11:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-25 01:44:56 +0000",
       "minecraft:forest": "2025-05-25 00:05:14 +0000",
       "minecraft:jungle": "2025-05-25 00:31:21 +0000",
       "minecraft:ocean": "2025-05-25 01:13:00 +0000",
@@ -2947,6 +2948,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-25 01:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 01:32:19 +0000"
@@ -3460,6 +3467,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-25 01:37:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 01:49:01 +0000"
     },
     "done": true
   },
@@ -3986,6 +3999,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 01:49:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-05-25 01:20:09 +0000"
@@ -4394,6 +4413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 01:49:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-25 01:32:30 +0000"
@@ -4442,6 +4467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-25 01:33:15 +0000"
@@ -4463,6 +4494,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-25 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-25 01:49:01 +0000"
     },
     "done": true
   },
