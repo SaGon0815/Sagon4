@@ -2645,3 +2645,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 01:58:25.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Herobrine1019 lost connection: Disconnected
 [25May2025 01:58:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 left the game
 [25May2025 01:58:25.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Herobrine1019
+[25May2025 02:00:36.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alta2024 lost connection: Disconnected
+[25May2025 02:00:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 left the game
+[25May2025 02:00:36.305] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alta2024
+[25May2025 02:00:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Cover Me with Diamonds]
+[25May2025 02:02:43.447] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 02:03:16.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.152.33.27:45293] logged in with entity id 31306 at (-278.97393289632976, 68.0, 1080.7315369680152)
+[25May2025 02:03:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[25May2025 02:03:16.769] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[25May2025 02:03:17.356] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[25May2025 02:03:17.357] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[25May2025 02:03:23.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[25May2025 02:03:24.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 53e7374b-5e04-335c-acba-f45d6acb5e7c
+[25May2025 02:03:24.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c) successfully connected to voice chat
+[25May2025 02:03:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Let's Get To Work]
+[25May2025 02:04:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Hunt and Gather]
+[25May2025 02:05:03.749] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[25May2025 02:05:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [We Need to Go Deeper]
+[25May2025 02:05:06.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[25May2025 02:05:08.395] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[25May2025 02:05:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [We Need to Go Deeper]
+[25May2025 02:06:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> hola amiguitos del minecra
+[25May2025 02:06:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> buenas
+[25May2025 02:06:28.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> elije un bando
+[25May2025 02:06:37.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ya ando con el santi
+[25May2025 02:06:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> el mio
+[25May2025 02:06:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> los picapitos o gonza y santi
+[25May2025 02:06:50.852] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[25May2025 02:06:50.852] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[25May2025 02:06:50.852] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[25May2025 02:06:50.852] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*"
+]
+[25May2025 02:06:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> gonza y santi
+[25May2025 02:06:57.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> xd
+[25May2025 02:07:51.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Cover Me with Diamonds]
+[25May2025 02:07:57.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Herobrine1019[/127.186.194.94:37335] logged in with entity id 33178 at (551.3600369672005, 92.0, 756.6669427922764)
+[25May2025 02:07:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 joined the game
+[25May2025 02:07:57.872] [Server thread/INFO] [Jade/]: Syncing config to Herobrine1019 (cc07486c-9669-3a11-bd83-718cd3810d96)
+[25May2025 02:07:59.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Herobrine1019 (18)
+[25May2025 02:07:59.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Herobrine1019
+[25May2025 02:08:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place

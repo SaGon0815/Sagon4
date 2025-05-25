@@ -1549,6 +1549,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-05-25 01:58:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 01:51:36 +0000"
@@ -1621,6 +1627,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-25 01:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-25 01:48:06 +0000"
@@ -1629,7 +1641,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-05-25 01:53:49 +0000"
+      "cooked_porkchop": "2025-05-25 01:53:49 +0000",
+      "cooked_beef": "2025-05-25 01:59:43 +0000"
     },
     "done": false
   },
