@@ -2573,3 +2573,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 01:28:14.011] [Server thread/INFO] [Jade/]: Syncing config to Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7)
 [25May2025 01:28:17.009] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alta2024 (18)
 [25May2025 01:28:17.010] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alta2024
+[25May2025 01:28:54.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:28:55.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:28:55.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7) successfully connected to voice chat
+[25May2025 01:30:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 hit the ground too hard
+[25May2025 01:31:59.372] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=780, y=13, z=394}
+[25May2025 01:31:59.373] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=780, y=13, z=392}
+[25May2025 01:31:59.373] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=780, y=13, z=390}
+[25May2025 01:32:15.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Disturbing the Dead I]
+[25May2025 01:34:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Suit Up]
+[25May2025 01:34:26.132] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[25May2025 01:34:26.133] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[25May2025 01:34:26.133] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[25May2025 01:34:26.133] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*"
+]
+[25May2025 01:34:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 has made the advancement [Stone Age]
+[25May2025 01:35:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> dale
+[25May2025 01:35:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> xd
+[25May2025 01:36:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 was slain by Ghoul
+[25May2025 01:37:00.357] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 01:37:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Acquire Hardware]
+[25May2025 01:38:21.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alta2024 lost connection: Timed out
+[25May2025 01:38:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 left the game
+[25May2025 01:38:21.407] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alta2024
+[25May2025 01:38:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed
+[25May2025 01:38:36.259] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 01:38:53.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alta2024[/127.144.59.19:34539] logged in with entity id 19841 at (118.29998859331901, 33.0, 76.69999998807907)
+[25May2025 01:38:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 joined the game
+[25May2025 01:38:53.162] [Server thread/INFO] [Jade/]: Syncing config to Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7)
+[25May2025 01:38:54.818] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alta2024 (18)
+[25May2025 01:38:54.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alta2024
