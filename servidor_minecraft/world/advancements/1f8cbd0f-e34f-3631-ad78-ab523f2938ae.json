@@ -10189,5 +10189,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-25 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-25 00:51:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
