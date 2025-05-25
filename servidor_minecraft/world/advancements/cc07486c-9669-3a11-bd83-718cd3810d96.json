@@ -3096,6 +3096,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-25 02:16:25 +0000",
+      "minecraft:magma_cube": "2025-05-25 02:42:10 +0000",
       "minecraft:zombie": "2025-05-25 01:21:37 +0000"
     },
     "done": false
@@ -4594,6 +4595,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-25 02:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-25 02:25:57 +0000"
@@ -4675,6 +4682,12 @@
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-05-25 02:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-25 02:42:18 +0000"
     },
     "done": true
   },

@@ -2878,3 +2878,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "-nP#kpX&bqR0T512*p*"
 ]
+[25May2025 02:41:36.945] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 02:42:05.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Take Aim]
+[25May2025 02:44:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod has made the advancement [Enchanter]
