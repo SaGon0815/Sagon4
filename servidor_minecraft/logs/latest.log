@@ -2608,3 +2608,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 01:38:53.162] [Server thread/INFO] [Jade/]: Syncing config to Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7)
 [25May2025 01:38:54.818] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alta2024 (18)
 [25May2025 01:38:54.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alta2024
+[25May2025 01:39:35.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:39:36.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:39:36.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7) successfully connected to voice chat
+[25May2025 01:40:05.720] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 01:40:34.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alta2024 lost connection: Timed out
+[25May2025 01:40:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 left the game
+[25May2025 01:40:34.565] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alta2024
+[25May2025 01:40:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 died from dehydration
+[25May2025 01:41:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> como que existe la deshidratacion aca ._.
+[25May2025 01:41:27.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> pero ocurre nada mas cuando te pega un gusano gris
+[25May2025 01:41:36.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21408, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[25May2025 01:41:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> aaahh
+[25May2025 01:42:46.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Stay dead]
+[25May2025 01:43:17.271] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25May2025 01:43:44.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alta2024[/127.144.59.19:35357] logged in with entity id 22993 at (109.62757573146187, 70.0, 44.47851912752964)
+[25May2025 01:43:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 joined the game
+[25May2025 01:43:44.865] [Server thread/INFO] [Jade/]: Syncing config to Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7)
+[25May2025 01:43:45.312] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alta2024 (18)
+[25May2025 01:43:45.312] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alta2024
+[25May2025 01:44:05.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:44:06.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1eaf36a7-362c-38ee-a35b-061e52aeb0c7
+[25May2025 01:44:06.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alta2024 (1eaf36a7-362c-38ee-a35b-061e52aeb0c7) successfully connected to voice chat
+[25May2025 01:44:45.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23390, l='ServerLevel[world]', x=257.60, y=-256.00, z=169.02] died, message: 'Unemployed was killed'
+[25May2025 01:46:01.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24420, l='ServerLevel[world]', x=463.22, y=-256.00, z=819.53] died, message: 'Unemployed was killed'
+[25May2025 01:46:11.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Good Demoman]
+[25May2025 01:48:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alta2024 has made the advancement [Getting an Upgrade]
+[25May2025 01:48:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Not Today, Thank You]
+[25May2025 01:49:13.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Mutant Zombie
