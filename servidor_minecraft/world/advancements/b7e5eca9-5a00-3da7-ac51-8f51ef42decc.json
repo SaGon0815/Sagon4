@@ -9924,12 +9924,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
-    "criteria": {
-      "has_spruce_leaves": "2025-05-24 05:09:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-05-24 04:59:31 +0000"
@@ -9939,6 +9933,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2025-05-24 04:59:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-05-24 05:09:20 +0000"
     },
     "done": true
   },

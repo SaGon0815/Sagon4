@@ -62,8 +62,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-25 00:08:21 +0000",
+      "minecraft:sparse_jungle": "2025-05-25 00:26:54 +0000",
       "minecraft:river": "2025-05-25 00:11:21 +0000",
-      "minecraft:forest": "2025-05-25 00:05:14 +0000"
+      "minecraft:forest": "2025-05-25 00:05:14 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-25 00:20:09 +0000",
+      "minecraft:plains": "2025-05-25 00:25:40 +0000"
     },
     "done": false
   },
@@ -277,6 +280,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-25 00:22:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:44 +0000"
@@ -409,6 +418,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 00:22:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-25 00:09:09 +0000"
@@ -517,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-25 00:24:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:44 +0000"
@@ -556,6 +577,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-25 00:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
     },
     "done": true
   },
@@ -601,6 +628,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-25 00:07:50 +0000"
@@ -610,6 +643,12 @@
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-25 00:09:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 00:24:54 +0000"
     },
     "done": true
   },
@@ -805,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-25 00:26:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:44 +0000"
@@ -877,6 +922,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-25 00:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-25 00:09:09 +0000"
@@ -922,6 +979,18 @@
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-25 00:09:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-25 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-25 00:22:37 +0000"
     },
     "done": true
   },
@@ -1006,6 +1075,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-25 00:12:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
     },
     "done": true
   },
@@ -1195,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-05-25 00:07:23 +0000"
@@ -1213,6 +1294,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-05-25 00:07:44 +0000"
@@ -1228,6 +1315,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-25 00:09:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-05-25 00:22:37 +0000"
     },
     "done": true
   },
@@ -1279,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-25 00:26:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:44 +0000"
@@ -1303,9 +1402,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-25 00:28:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-25 00:07:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
     },
     "done": true
   },
@@ -1357,9 +1474,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_wool": "2025-05-25 00:26:38 +0000"
     },
     "done": true
   },
@@ -1441,6 +1570,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 00:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-25 00:09:07 +0000"
@@ -1453,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-25 00:24:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-25 00:11:03 +0000"
@@ -1462,6 +1603,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-25 00:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-25 00:26:38 +0000"
     },
     "done": true
   },
@@ -1573,6 +1720,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-25 00:26:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-05-25 00:07:44 +0000"
@@ -1663,6 +1816,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 00:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-25 00:07:44 +0000"
@@ -1683,7 +1842,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-05-25 00:18:40 +0000"
+      "cooked_porkchop": "2025-05-25 00:18:40 +0000",
+      "cooked_mutton": "2025-05-25 00:21:44 +0000",
+      "cooked_beef": "2025-05-25 00:25:32 +0000"
     },
     "done": false
   },
@@ -1768,6 +1929,18 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-05-25 00:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-25 00:24:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-25 00:22:37 +0000"
     },
     "done": true
   },

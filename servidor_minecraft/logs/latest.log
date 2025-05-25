@@ -2717,3 +2717,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 00:22:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> puteen al gonza por mods de mierda
 [25May2025 00:22:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dea
 [25May2025 00:22:57.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was doomed to fall by kevedo909
+[25May2025 00:23:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 suffocated in a wall
+[25May2025 00:24:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was killed
+[25May2025 00:24:52.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[25May2025 00:25:42.385] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[25May2025 00:25:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was doomed to fall by kevedo909
+[25May2025 00:25:58.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was doomed to fall by YOUNGDINO07
+[25May2025 00:26:44.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.35.200.9:36127] logged in with entity id 9030 at (-283.9786577186889, 54.0, 1112.721046119399)
+[25May2025 00:26:44.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[25May2025 00:26:44.475] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[25May2025 00:26:50.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Leech
+[25May2025 00:26:50.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[25May2025 00:26:50.561] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[25May2025 00:27:02.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> HERO NO DIGAS LAS COORDENADAS
+[25May2025 00:27:03.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[25May2025 00:27:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> no digas nada
+[25May2025 00:27:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> ya se
+[25May2025 00:27:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 was killed
+[25May2025 00:27:18.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[25May2025 00:27:19.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[25May2025 00:27:19.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[25May2025 00:27:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was killed
+[25May2025 00:28:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[25May2025 00:28:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> buenaas tardes
+[25May2025 00:29:16.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> vete a la mierda
+[25May2025 00:29:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> na mentira xd
+[25May2025 00:29:36.498] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[25May2025 00:29:36.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[25May2025 00:29:36.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[25May2025 00:29:36.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*"
+]
+[25May2025 00:29:43.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.26.111.16:54001] logged in with entity id 11465 at (-291.4898360884078, 54.0, 1113.738151127413)
+[25May2025 00:29:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[25May2025 00:29:43.340] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[25May2025 00:29:44.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[25May2025 00:29:44.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[25May2025 00:29:54.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[25May2025 00:29:55.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[25May2025 00:29:55.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[25May2025 00:30:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> BUENAAAS
+[25May2025 00:30:28.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> les cuento un chista?
+[25May2025 00:30:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> buenas
+[25May2025 00:30:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> burno
+[25May2025 00:30:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> chiste =)
+[25May2025 00:30:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ja
+[25May2025 00:30:57.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ja
+[25May2025 00:30:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ja
+[25May2025 00:30:59.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> ja
+[25May2025 00:31:00.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> ja
+[25May2025 00:31:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> ja
+[25May2025 00:31:04.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[25May2025 00:31:28.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> espero que estee divertido su gameplay
+[25May2025 00:31:33.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que
+[25May2025 00:31:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Herobrine1019> primer dia y ya mori 2 veces
+[25May2025 00:31:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> como hiciste eso
+[25May2025 00:31:51.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> =(
+[25May2025 00:31:58.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza
+[25May2025 00:32:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> dejame
+[25May2025 00:33:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Not Today, Thank You]
