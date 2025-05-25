@@ -9948,5 +9948,11 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-05-25 02:20:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

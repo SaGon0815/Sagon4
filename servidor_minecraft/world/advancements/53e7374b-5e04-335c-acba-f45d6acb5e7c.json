@@ -67,6 +67,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-25 02:21:07 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-25 02:22:11 +0000",
+      "minecraft:taiga": "2025-05-25 02:21:44 +0000",
       "minecraft:cherry_grove": "2025-05-22 03:02:58 +0000",
       "minecraft:birch_forest": "2025-05-22 03:00:13 +0000",
       "minecraft:savanna_plateau": "2025-05-25 02:14:29 +0000",
@@ -76,9 +79,11 @@
       "minecraft:lukewarm_ocean": "2025-05-25 02:15:23 +0000",
       "minecraft:dripstone_caves": "2025-05-22 03:16:33 +0000",
       "minecraft:grove": "2025-05-22 03:02:11 +0000",
+      "minecraft:cold_ocean": "2025-05-25 02:24:10 +0000",
       "minecraft:forest": "2025-05-22 02:56:24 +0000",
       "minecraft:jungle": "2025-05-25 02:15:41 +0000",
       "minecraft:ocean": "2025-05-25 02:17:11 +0000",
+      "minecraft:frozen_peaks": "2025-05-25 02:21:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-22 02:59:14 +0000",
       "minecraft:meadow": "2025-05-25 02:14:24 +0000",
       "minecraft:savanna": "2025-05-22 03:08:25 +0000",
@@ -2222,6 +2227,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-22 03:19:07 +0000",
+      "minecraft:piglin_brute": "2025-05-25 02:27:11 +0000",
       "minecraft:zombie": "2025-05-22 03:35:45 +0000",
       "minecraft:zombie_villager": "2025-05-22 03:10:02 +0000"
     },
@@ -3763,6 +3769,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-05-25 02:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-25 02:08:31 +0000"
@@ -3862,6 +3874,18 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-05-25 02:08:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-05-25 02:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 02:30:38 +0000"
     },
     "done": true
   },
