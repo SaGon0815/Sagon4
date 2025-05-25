@@ -5831,5 +5831,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-25 00:17:28 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-05-25 00:17:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
