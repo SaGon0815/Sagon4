@@ -5831,27 +5831,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_clay": "2025-05-25 00:53:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-25 00:17:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-05-25 00:53:27 +0000"
-    },
-    "done": true
-  },
   "backpacked:recipes/misc/backpack": {
     "criteria": {
       "has_hide": "2025-05-25 00:17:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-05-25 00:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-25 00:53:27 +0000"
     },
     "done": true
   },

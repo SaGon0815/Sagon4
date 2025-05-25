@@ -2524,3 +2524,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 01:05:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
 [25May2025 01:05:31.160] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
 [25May2025 01:05:31.208] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 01:08:27.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Herobrine1019[/127.186.194.94:44331] logged in with entity id 3623 at (67.89195943614249, 64.0, 354.8940318217617)
+[25May2025 01:08:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 joined the game
+[25May2025 01:08:27.396] [Server thread/INFO] [Jade/]: Syncing config to Herobrine1019 (cc07486c-9669-3a11-bd83-718cd3810d96)
+[25May2025 01:08:28.487] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Herobrine1019 (18)
+[25May2025 01:08:28.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Herobrine1019
+[25May2025 01:09:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Ice Bucket Challenge]
+[25May2025 01:10:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [First Village]
+[25May2025 01:12:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> y agus
+[25May2025 01:13:01.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lo estoy llamando
+[25May2025 01:13:02.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.143.64.227:46825] logged in with entity id 6087 at (538.9717238443249, -8.0, 764.9332846991638)
+[25May2025 01:13:02.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[25May2025 01:13:02.572] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[25May2025 01:13:04.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[25May2025 01:13:04.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[25May2025 01:13:07.266] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[25May2025 01:13:07.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[25May2025 01:13:07.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[25May2025 01:13:07.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[25May2025 01:13:07.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[25May2025 01:13:07.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[25May2025 01:13:07.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[25May2025 01:13:12.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[25May2025 01:13:13.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[25May2025 01:13:13.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[25May2025 01:13:20.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[25May2025 01:13:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> coincidencia
+[25May2025 01:14:06.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=412, y=61, z=296} BlockPos{x=412, y=62, z=296}
+[25May2025 01:14:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[25May2025 01:16:42.757] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[25May2025 01:17:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Herobrine1019 has made the advancement [Let's Get To Work]
+[25May2025 01:17:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell off some vines
